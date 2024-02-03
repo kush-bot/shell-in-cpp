@@ -27,8 +27,4 @@ g++ -o SimpleShell main.cpp
 ```
 
 
-### Building
 
-This project was developed with reference to the following resources:
-
-(https://brennan.io/2015/01/16/write-a-shell-in-c/): Description of how it was used.
