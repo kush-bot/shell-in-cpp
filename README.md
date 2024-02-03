@@ -22,7 +22,12 @@ To build the SimpleShell, use the following commands:
 ```bash
 g++ -o SimpleShell main.cpp
 
-### Acknowledgments
+# Running the SimpleShell
+./SimpleShell
+```
+
+
+### Building
 
 This project was developed with reference to the following resources:
 
