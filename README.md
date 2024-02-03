@@ -22,8 +22,8 @@ To build the SimpleShell, use the following commands:
 ```bash
 g++ -o SimpleShell main.cpp
 
-## Acknowledgments
+### Acknowledgments
 
 This project was developed with reference to the following resources:
 
-- [Name of the Website/Resource](https://brennan.io/2015/01/16/write-a-shell-in-c/): Description of how it was used.
+(https://brennan.io/2015/01/16/write-a-shell-in-c/): Description of how it was used.
